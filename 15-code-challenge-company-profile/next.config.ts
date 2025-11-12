@@ -7,11 +7,19 @@ const nextConfig: NextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "leminerale.com",
+        hostname: "ik.imagekit.io",
       },
       {
         protocol: "https",
-        hostname: "ik.imagekit.io",
+        hostname: "www.minumvit.co.id",
+      },
+      {
+        protocol: "https",
+        hostname: "asset-about.blibli.com",
+      },
+      {
+        protocol: "https",
+        hostname: "randomuser.me",
       },
     ],
   },
